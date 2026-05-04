@@ -4,10 +4,10 @@ using namespace std;
     int a,b;
   cout<< " enter the value of matrix a and b: "<<endl;
 
-  cin>> a >>b ;
+  cin>> a >>c ;
 
   for( int i = 1 ; i <=a ; i++ ){
-  for( int j = 1 ; j<=b ; j++){
+  for( int j = 1 ; j<=c ; j++){
     cout<< "*";
 
   }
