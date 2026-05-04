@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
  int main (){
-    int a,b;
+    int a,c;
   cout<< " enter the value of matrix a and b: "<<endl;
 
   cin>> a >>c ;
